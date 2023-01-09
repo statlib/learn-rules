@@ -1,5 +1,5 @@
 # learn-rules
-Repo for material for learning classification/decision rules based on data mining techniques.
+Material for learning classification/decision rules based on data mining techniques.
 
 ## RuleFit
 * https://github.com/christophM/rulefit
